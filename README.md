@@ -1,4 +1,4 @@
-# ⚙️ Component Language Pack
+# ⚙️ Component Language Pack  [🚀4.6 OUT🚀]
 
 This language pack modifies component names to make it easier to detect and track stats.
 
@@ -7,16 +7,11 @@ For example:
 `XL-1` → `XL-1 Military A`
 
 ---
-[Alternate Version](https://github.com/joeydee1986/ScCompLangPackRemix):
-
-`XL-1` → `M2A XL-1`
-
-Thx to [joeydee1986](https://github.com/joeydee1986)!
 
 ## ⬇️ Download and install
 
 Download the latest version here:  
-[**Download Component Language Pack**](https://github.com/ExoAE/ScCompLangPack/releases/download/%23Release/ScCompLangPack.zip) or at the [**Releases Page**](https://github.com/ExoAE/ScCompLangPack/releases)  
+[**Download Component Language Pack**](https://github.com/ExoAE/ScCompLangPack/releases/download/Release/ScCompLangPack.zip) or at the [**Releases Page**](https://github.com/ExoAE/ScCompLangPack/releases)  
 
 ### 🔧 How to Install:
 
@@ -24,6 +19,13 @@ Download the latest version here:
 2. If you already have a `user.cfg` file, **do not overwrite** it. Instead, open your existing user.cfg and add the following line at the end `g_language = english`.
 3. Copy the `data` folder and the (`user.cfg`) file into your game’s LIVE folder root.
 4. Launch the game.
+
+---
+[Alternate Version](https://github.com/joeydee1986/ScCompLangPackRemix):
+
+`XL-1` → `M2A XL-1`
+
+Thx to [joeydee1986](https://github.com/joeydee1986)!
 
 ## 🚧 Contribute or Bugs
 
