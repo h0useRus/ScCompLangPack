@@ -1,4 +1,4 @@
-# ⚙️ Component Language Pack  [🚀4.6 OUT🚀]
+# ⚙️ Component Language Pack  [🚀4.6 Content Drop OUT🚀]
 
 This language pack modifies component names to make it easier to detect and track stats.
 
