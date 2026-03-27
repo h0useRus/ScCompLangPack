@@ -21,11 +21,19 @@ Download the latest version here:
 4. Launch the game.
 
 ---
-[Alternate Version](https://github.com/joeydee1986/ScCompLangPackRemix):
+## ⚙️ScCompLangPackRemix [here](https://github.com/BeltaKoda/ScCompLangPackRemix)
 
 `XL-1` → `M2A XL-1`
 
-Thx to [joeydee1986](https://github.com/joeydee1986)!
+Thx to [BeltaKoda](https://github.com/BeltaKoda)!
+
+## ⚙️ScCompLangPackRemix2 also at the [**Releases Page**](https://github.com/ExoAE/ScCompLangPack/releases)
+
+`XL-1` → `MIL-2A "XL-1"`
+
+Idea by [andydsm](https://www.reddit.com/user/andydsm/)
+
+---
 
 ## 🚧 Contribute or Bugs
 
