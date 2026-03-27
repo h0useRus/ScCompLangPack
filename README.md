@@ -1,4 +1,4 @@
-# ⚙️ Component Language Pack  [🚀4.6 Content Drop OUT🚀]
+# ⚙️ Component Language Pack  [🚀4.7.0 OUT🚀]
 
 This language pack modifies component names to make it easier to detect and track stats.
 
@@ -11,7 +11,7 @@ For example:
 ## ⬇️ Download and install
 
 Download the latest version here:  
-[**Download Component Language Pack**](https://github.com/ExoAE/ScCompLangPack/releases/download/Release/ScCompLangPack.zip) or at the [**Releases Page**](https://github.com/ExoAE/ScCompLangPack/releases)  
+[**Releases Page**](https://github.com/ExoAE/ScCompLangPack/releases)  
 
 ### 🔧 How to Install:
 
