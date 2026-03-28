@@ -1,10 +1,17 @@
-# ⚙️ Component Language Pack  [🚀4.7.0 OUT🚀]
+# ⚙️ Component Language Pack + additions [🚀4.7.0 OUT🚀]
 
 This language pack modifies component names to make it easier to detect and track stats.
 
-For example:
+Component changes:
 
 `XL-1` → `XL-1 Military A`
+
+Additional changes kindly provided by [MrKraken](https://github.com/MrKraken) and Blueprints by [SCMDB by 🥑Krovax](https://scmdb.net/)
+
+- Contracts that award blueprints have the potential pool added to the end of the description
+- Warning prefixes for illegal substances
+- Hephaestanite shortened to Heph [#12](https://github.com/ExoAE/ScCompLangPack/issues/12)
+
 
 ---
 
@@ -30,6 +37,8 @@ Thx to [BeltaKoda](https://github.com/BeltaKoda)!
 ## ⚙️ScCompLangPackRemix2 also at the [**Releases Page**](https://github.com/ExoAE/ScCompLangPack/releases)
 
 `XL-1` → `MIL-2A "XL-1"`
+
+(Also includes the blueprints)
 
 Idea by [andydsm](https://www.reddit.com/user/andydsm/)
 
