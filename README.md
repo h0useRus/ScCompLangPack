@@ -1,18 +1,19 @@
 # ⚙️ Component Language Pack + additions [🚀4.7.0 OUT🚀]
 
-This language pack modifies component names to make it easier to detect and track stats.
+The default language pack modifies component names to make it easier to detect and track stats.
 
 Component changes:
 
 `XL-1` → `XL-1 Military A`
 
-Additional changes kindly provided by [MrKraken](https://github.com/MrKraken) and Blueprints by [SCMDB by 🥑Krovax](https://scmdb.net/)
+Additional changes  
 
 - Contracts that award blueprints have the potential pool added to the end of the description
 - Warning prefixes for illegal substances
-- Hephaestanite shortened to Heph [#12](https://github.com/ExoAE/ScCompLangPack/issues/12)
-- Instability:/Resistance: shortened to Instab.:/Resist.: due to overlapping issues 
+kindly provided by [MrKraken](https://github.com/MrKraken) and Blueprints by [SCMDB by 🥑Krovax](https://scmdb.net/)
 
+- Hephaestanite shortened to Heph [#12](https://github.com/ExoAE/ScCompLangPack/issues/12)
+- Instability:/Resistance: shortened to Instab.:/Resist.: due to overlapping issues
 
 ---
 
@@ -66,5 +67,9 @@ https://robertsspaceindustries.com/spectrum/community/SC/forum/1/thread/star-cit
 If you’d like to support me, you can use my Star Citizen referral code when when buying the game:
 
 STAR-4JD7-RZT4
+
+Other Ways:
+
+[☕ Ko-fi](https://ko-fi.com/exoae)
 
 Thank you for using my pack!
