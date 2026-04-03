@@ -10,6 +10,7 @@ Additional changes
 
 - Contracts that award blueprints have the potential pool added to the end of the description
 - Warning prefixes for illegal substances
+
 kindly provided by [MrKraken](https://github.com/MrKraken) and Blueprints by [SCMDB by 🥑Krovax](https://scmdb.net/)
 
 - Hephaestanite shortened to Heph [#12](https://github.com/ExoAE/ScCompLangPack/issues/12)
