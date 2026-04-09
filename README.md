@@ -6,15 +6,28 @@ Component changes:
 
 `XL-1` → `XL-1 Military A`
 
-Additional changes  
+Additional changes from [StarStrings](https://github.com/MrKraken/StarStrings) Pack
 
-- Contracts that award blueprints have the potential pool added to the end of the description
+- Contracts that award BP's have `[BP]` in the title
+  - `[BP]*` for contracts with shared text and only a specific one awards, which is stated in description
 - Warning prefixes for illegal substances
+- Any `item_commodities_raw_` entry that begins "Raw ..." will now be suffixed (Raw) instead
+- Hauling contract titles cleaned up and Direct underlined
+- Reformatted the Mining guide journal entry to group ores by rarity
+  - nb. I do not verify that the source journal entry is in any way accurate.
+- Type notation prefix for missiles (Thanks to WhisperDark in Discord for suggestion)
+  - Eg. `Dominator II Missile` -> `[EM] Dominator II Missile`
 
-kindly provided by [MrKraken](https://github.com/MrKraken) and Blueprints by [SCMDB by 🥑Krovax](https://scmdb.net/)
+>[!NOTE]
+>kindly provided by [MrKraken](https://github.com/MrKraken) 
 
 - Hephaestanite shortened to Heph [#12](https://github.com/ExoAE/ScCompLangPack/issues/12)
 - Instability:/Resistance: shortened to Instab.:/Resist.: due to overlapping issues
+- Added [BP] also when you get Rewarded with a specific Blueprint
+
+>[!NOTE]
+>Which pack should i use? [ScCompLangPack/[Remix](https://github.com/BeltaKoda/ScCompLangPackRemix)/[Remix2](https://github.com/ExoAE/ScCompLangPack/releases)/[StarStrings](https://github.com/MrKraken/StarStrings)]
+>Basically, all the packs have the same QoL changes, they only differ in component naming. So i suggest choosing the preffered component naming.
 
 ---
 
