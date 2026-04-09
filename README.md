@@ -18,15 +18,15 @@ Additional changes from [StarStrings](https://github.com/MrKraken/StarStrings) P
 - Type notation prefix for missiles (Thanks to WhisperDark in Discord for suggestion)
   - Eg. `Dominator II Missile` -> `[EM] Dominator II Missile`
 
->[!NOTE]
->kindly provided by [MrKraken](https://github.com/MrKraken) 
+kindly provided by [MrKraken](https://github.com/MrKraken) ♥️
 
 - Hephaestanite shortened to Heph [#12](https://github.com/ExoAE/ScCompLangPack/issues/12)
 - Instability:/Resistance: shortened to Instab.:/Resist.: due to overlapping issues
 - Added [BP] also when you get Rewarded with a specific Blueprint
 
 >[!NOTE]
->Which pack should i use? [ScCompLangPack/[Remix](https://github.com/BeltaKoda/ScCompLangPackRemix)/[Remix2](https://github.com/ExoAE/ScCompLangPack/releases)/[StarStrings](https://github.com/MrKraken/StarStrings)]
+>Which pack should i use? [[ScCompLangPack](https://github.com/ExoAE/ScCompLangPack/releases) / [Remix](https://github.com/BeltaKoda/ScCompLangPackRemix) / [Remix2](https://github.com/ExoAE/ScCompLangPack/releases) / [StarStrings](https://github.com/MrKraken/StarStrings)]
+>
 >Basically, all the packs have the same QoL changes, they only differ in component naming. So i suggest choosing the preffered component naming.
 
 ---
